@@ -22,4 +22,4 @@ This project involves analyzing applications available on the Play Store using P
 * Number of Apps per Category
 * Price and Category Relationship
 
-  
+The dataset used in this project is sourced from Kaggle.  
