@@ -15,6 +15,13 @@ This project involves analyzing applications available on the Play Store using P
 * Changing Data Types
 * Combining similar values
 * Preparing Data for Visualization
+## Data Analysis
+* Mean and Median Values for Rating, Reviews, and Installs columns
+* Type values counts
+* Content Rating Counts
+* Total Downloads by Category
+* Average Metrics by Category
+* Average Rating by Content Rating
 ## Data Visualization
 * Payment Information and App Rating
 * App Rating by Type
